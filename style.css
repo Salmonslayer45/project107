@@ -1,0 +1,30 @@
+body{
+
+}
+
+h1{
+font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;
+font-weight: 200;
+}
+
+h4{
+    font-weight: 550;
+}
+
+#camera{
+    width: 700px;
+    height: 600px;
+    border-color: orangered;
+    border-style: double;
+}
+img{
+ width: 300px;
+ height: 300px;
+ border-color: turquoise;
+ padding: 4%;
+ border-style: ridge;
+}
+img:hover{
+    border-radius: 140px;
+}
